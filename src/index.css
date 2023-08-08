@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+
+:root{
+    --dsNavbarBg: #FFE500;
+    --dsNavbarText: #636363;
+  
+    --dsCardBg: #fff;
+  
+    --dsPriceText: #0CAF1D;
+    --dsItemName: #636363;
+    --dsItemDetails: #636363;
+    --dsHeaderTitle: #636363;
+  
+    --dsCategoryBg: #636363;
+    --dsCategoryText: #fff;
+  
+    --dsDefaultButtonBg: #3483FA;
+    --dsDefaultButtonText: #fff;
+    --dsSecondaryButtonBg: #fff;
+    --dsSecondaryButtonText: #3483FA;
+    
+  }
